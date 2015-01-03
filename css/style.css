@@ -1,0 +1,21 @@
+/* You can put your own style here */
+
+body {
+  /*font-family: 'Open Sans', sans-serif;*/
+  font-family: "Tahoma", sans-serif;
+  font-size: 16px;
+  height: 100%;
+}
+
+
+#signature a {
+  color: #031ec0;
+}
+
+#signature h4 {
+  color: white;
+}
+
+/*#signature a:hover {
+  color: white;
+}*/
